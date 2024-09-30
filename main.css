@@ -1,0 +1,44 @@
+main{
+    padding-top: 64px;
+    padding-bottom: 64px;
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+section{
+    margin-left: 1px;
+    margin-right: 100px;
+    width: 1700px;
+    height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.bos{
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    margin: 5px;
+    padding: 8px 8px;
+    width: 250px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bos2{
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    margin: 5px;
+    padding: 8px 8px;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
